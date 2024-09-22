@@ -1,0 +1,27 @@
+@import url("reset.css");
+
+p {
+    color: green;
+}
+
+li {
+    color: red;
+}
+
+
+
+a {
+    color: blue;
+}
+
+.text {
+    color: chocolate;
+}
+
+mark {
+    color: blue;
+}
+
+h3 {
+    color: brown;
+}
