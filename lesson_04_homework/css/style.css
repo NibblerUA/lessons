@@ -1,0 +1,133 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:500,regular,900,900italic&display=swap");
+
+@import url("https://fonts.googleapis.com/css?family=DM+Sans:regular,700&display=swap");
+
+@import url("https://fonts.googleapis.com/css?family=Work+Sans:regular,600&display=swap");
+
+@font-face {
+    font-family: Volja-Regular;
+    src: url(../fonts/Volja-Regular/volja-regular_w.woff2);
+}
+
+
+
+@import url("reset.css");
+
+body {
+    font-family: "Roboto", sans-serif;
+    text-align: center;
+    line-height: 20px;
+}
+
+.title {
+    font-weight: 900;
+    font-style: italic;
+    text-shadow: 5px 5px 3px #00ccff, -5px -5px 10px rgb(250, 0, 0);
+    color: #c500fb;
+    line-height: 40px;
+    font-size: 45px;
+
+
+}
+
+h1.title {
+    white-space: nowrap;
+}
+
+h2.title {
+    font-size: 30px;
+    text-shadow: none;
+}
+
+h3.title {
+    font-size: 20px;
+}
+
+
+
+.mini-text {
+    color: rgb(102, 107, 0);
+    font-size: 12px;
+}
+
+.text {
+    color: rgb(114, 11, 14);
+}
+
+
+
+.link {
+    font-family: "Volja-Regular";
+    color: blue;
+    text-decoration: underline;
+    word-spacing: 20px;
+}
+
+.my-link {
+    text-transform: uppercase;
+}
+
+
+.About-us {
+    font-family: "DM Sans";
+    font-style: normal;
+    text-align: left;
+}
+
+.About-us h1 {
+
+    font-size: 88px;
+    font-weight: 700;
+    line-height: 95px;
+    color: #1E1B39;
+
+}
+
+.About-us p {
+    color: #474464;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 42px;
+}
+
+.Introduce {
+    font-family: Roboto;
+    font-style: normal;
+}
+
+.Introduce h1 {
+
+    font-size: 50px;
+    font-weight: 500;
+    line-height: 66px;
+    letter-spacing: 1px;
+    color: #091133;
+}
+
+.Introduce p {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    color: #505F98;
+}
+
+.I-am {
+    font-family: "work sans";
+    font-style: normal;
+    text-align: left;
+
+}
+
+.I-am h1 {
+    font-size: 38px;
+    font-weight: 600;
+    line-height: 50px;
+    color: #132238;
+}
+
+.I-am p {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #556070;
+}
