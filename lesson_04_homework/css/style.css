@@ -4,14 +4,12 @@
 
 @import url("https://fonts.googleapis.com/css?family=Work+Sans:regular,600&display=swap");
 
+@import url("reset.css");
+
 @font-face {
     font-family: Volja-Regular;
     src: url(../fonts/Volja-Regular/volja-regular_w.woff2);
 }
-
-
-
-@import url("reset.css");
 
 body {
     font-family: "Roboto", sans-serif;
