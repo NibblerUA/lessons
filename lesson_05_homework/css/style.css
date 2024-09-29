@@ -1,0 +1,189 @@
+@import url("https://fonts.googleapis.com/css?family=Manrope:regular,600,700&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Roboto:regular,500&display=swap");
+
+@import url("reset.css");
+
+.films {
+    background-color: black;
+    font-family: manrope;
+    color: #999999;
+    max-width: 1500px;
+    margin: 0 auto 100px auto;
+
+
+
+}
+
+.heading h1 {
+    font-size: 38px;
+    font-weight: 700;
+    line-height: 150%;
+    color: #FFF;
+    margin-bottom: 14px;
+}
+
+.heading p {
+    font-size: 18px;
+    line-height: 150%;
+}
+
+.heading {
+    margin-bottom: 80px;
+}
+
+
+
+.block h2 {
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 150%;
+}
+
+.block p {
+    font-size: 18px;
+    line-height: 150%;
+}
+
+.block img {
+    display: inline-block;
+    margin-right: 33.8px;
+}
+
+.block h2 {
+    display: inline-block;
+}
+
+.heading-item {
+    margin-bottom: 30px;
+}
+
+.blocks {
+    /*margin-left: -5px;
+    margin-right: -5px;
+    */
+    font-size: 0;
+
+
+}
+
+
+
+.block {
+    background: rgb(121, 9, 9);
+    background: linear-gradient(217deg, rgba(121, 9, 9, 1) 0%, rgba(0, 0, 0, 1) 35%);
+    margin-bottom: 30px;
+    padding: 50px;
+
+    display: inline-block;
+    width: 33.333%;
+}
+
+/* Друга домашка*/
+.landing {
+
+    font-family: Roboto;
+    color: #091133;
+    max-width: 539px;
+    margin: 0 auto 100px auto;
+
+}
+
+.text-landing h1 {
+    font-size: 50px;
+    font-weight: 500;
+    line-height: 132%;
+    letter-spacing: 1px;
+    margin-bottom: 20px;
+}
+
+.text-landing p {
+    color: #505F98;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 166.667%;
+
+}
+
+.text-landing {
+    margin-bottom: 70px;
+}
+
+.buttons-landing {}
+
+.button-landing {
+    padding-block: 5px;
+    color: #FFFFFF;
+    text-align: center;
+    min-width: 189px;
+    min-height: 36px;
+    background-color: #111B47;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 162.5%;
+    margin-right: 30px;
+
+}
+
+.conteiner {
+    padding: 58 92 107 163;
+}
+
+/* Третя домашка*/
+
+.design {
+    font-family: Roboto;
+    color: #091133;
+    max-width: 520px;
+    margin: 0 auto 100px auto;
+}
+
+
+
+.text-design {
+    margin-bottom: 69px;
+}
+
+.text-design h1 {
+    font-size: 36px;
+    font-weight: 500;
+    line-height: 133.333%;
+    margin-bottom: 16px;
+}
+
+.text-design p {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 162.5%;
+    color: #6F7CB2;
+}
+
+.items-design {}
+
+.item-design {
+    max-width: 245px;
+    display: inline-block;
+    width: 50%;
+    margin-bottom: 32px;
+}
+
+.item-design img {
+    margin-bottom: 14px;
+}
+
+.item-design h2 {
+    margin-bottom: 6px;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 162.5%;
+
+}
+
+.item-design p {
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 150%;
+    color: #5D6970;
+
+}
