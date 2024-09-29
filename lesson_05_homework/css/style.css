@@ -5,7 +5,7 @@
 
 .films {
     background-color: black;
-    font-family: manrope;
+    font-family: manrope, sans-serif;
     color: #999999;
     max-width: 1500px;
     margin: 0 auto 100px auto;
@@ -82,7 +82,7 @@
 /* Друга домашка*/
 .landing {
 
-    font-family: Roboto;
+    font-family: Roboto, sans-serif;
     color: #091133;
     max-width: 539px;
     margin: 0 auto 100px auto;
@@ -131,7 +131,7 @@
 /* Третя домашка*/
 
 .design {
-    font-family: Roboto;
+    font-family: Roboto, sans-serif;
     color: #091133;
     max-width: 520px;
     margin: 0 auto 100px auto;
